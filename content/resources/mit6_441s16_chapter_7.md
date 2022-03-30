@@ -4,6 +4,7 @@ description: This resource contains the information regarding fixed-length (almo
   lossless) compression. Slepian-Wolf problem..
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-441-information-theory-spring-2016/85014cb1add9f415ef38f60f678f16b2_MIT6_441S16_chapter_7.pdf
 file_type: application/pdf
+parent_uid: 99ddf4a2-3a6e-f9c4-342b-b24697590209
 resourcetype: Document
 title: '6.441S16: Chapter 7: Fixed-length (almost lossless) compression. Slepian-Wolf
   problem.'

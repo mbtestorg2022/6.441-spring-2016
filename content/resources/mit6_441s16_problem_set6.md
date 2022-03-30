@@ -4,6 +4,7 @@ description: 'This resource contains the information regarding information theor
   Problem set.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-441-information-theory-spring-2016/149011ceca32c34a103e15a4176415fc_MIT6_441S16_problem_set6.pdf
 file_type: application/pdf
+parent_uid: 44eeeb65-bee8-f847-0025-6434ba60fcb0
 resourcetype: Document
 title: '6.441S16: Problem Set 6'
 uid: 149011ce-ca32-c34a-103e-15a4176415fc
